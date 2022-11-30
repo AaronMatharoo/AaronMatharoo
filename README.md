@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @arizona905
-- 👀 I’m interested in creative & algorthmic coding
-- 🌱 I’m always learning a lot
-- 💞️ I’m looking to collaborate on almost anything
+- 👋 Hi there, I’m Arizona, a full-stack software engineer.
+- 👀 I’m interested in creative coding, algorthmic art, game development, and sim racing.
+- 🌱 I'm currently perfecting my craft in NextJS, utilizing ReactJS, Redux, and many other JS libraries to build professional apps.
+- 💞️ I’m looking to collaborate on almost anything as I have some experience in Python, and C++ as well.
+- (info as of 2021)
+
 - 📫 How to reach me: designsolubles@gmail.com
 
 <!---
